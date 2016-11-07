@@ -3,7 +3,7 @@
   "version": "0.2.3",
   "description": "RESTifies Clang's API",
   "dependencies": {
-    "clang": "^0.1.13",
+    "clang": "^0.1.14",
     "express": "4.13.3",
     "express-winston": "^2.0.0",
     "winston": "^2.2.0"
